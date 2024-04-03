@@ -1,4 +1,1 @@
-Olá, meu nome é Pietro Pacanaro;
-Tenho 20 anos;
-Trabalho com programação em Genexus e crio outras aplicações em outras linguagens;
-Faço Ciência da Computação.
+I'm Pietro, a full-stack systems developer who enjoys implementing new features, with a focus on user experience, as well as performing code maintenance to bring a more current resolution with great efficiency and effectiveness in every line of code. I'm someone who learns extremely easily and likes to continually improve to achieve excellent mastery in all areas of interest. I have a great way of relating to colleagues, as I have excellent communication and proactivity, along with a spirit of leadership and a lot of friendliness.
